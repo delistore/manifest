@@ -1,0 +1,39 @@
+{
+  "name": "Delistore.id",
+  "short_name": "Delistore.id",
+  "scope": "https://www.delistore.id/",
+  "start_url": "https://www.delistore.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#de0045",
+  "description": "Grosir & Ecer Perlengkapan Alat Tulis Kantor / ATK Merek DELI. Harga Murah & Barang Terlengkap",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitSes-Wi_lDyRg8aEWSAX77GEXcQnKfnVf9XTlWyMhZvXLobyWXWKqLiewrRKN2QmW3IoqSM2XRsYww4eI_KO3QChwARKjVja6B2QfLbXdfjZ1t-iFAN1W2oBq3tKqZR4d_VnOH24BR5QEjSDrtTFpjOQ1cgxnyP66zwuddBXLtf1WMSNIMw_T68_Z0jHx/s48/DeliLogo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitSes-Wi_lDyRg8aEWSAX77GEXcQnKfnVf9XTlWyMhZvXLobyWXWKqLiewrRKN2QmW3IoqSM2XRsYww4eI_KO3QChwARKjVja6B2QfLbXdfjZ1t-iFAN1W2oBq3tKqZR4d_VnOH24BR5QEjSDrtTFpjOQ1cgxnyP66zwuddBXLtf1WMSNIMw_T68_Z0jHx/s72/DeliLogo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitSes-Wi_lDyRg8aEWSAX77GEXcQnKfnVf9XTlWyMhZvXLobyWXWKqLiewrRKN2QmW3IoqSM2XRsYww4eI_KO3QChwARKjVja6B2QfLbXdfjZ1t-iFAN1W2oBq3tKqZR4d_VnOH24BR5QEjSDrtTFpjOQ1cgxnyP66zwuddBXLtf1WMSNIMw_T68_Z0jHx/s96/DeliLogo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitSes-Wi_lDyRg8aEWSAX77GEXcQnKfnVf9XTlWyMhZvXLobyWXWKqLiewrRKN2QmW3IoqSM2XRsYww4eI_KO3QChwARKjVja6B2QfLbXdfjZ1t-iFAN1W2oBq3tKqZR4d_VnOH24BR5QEjSDrtTFpjOQ1cgxnyP66zwuddBXLtf1WMSNIMw_T68_Z0jHx/s144/DeliLogo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitSes-Wi_lDyRg8aEWSAX77GEXcQnKfnVf9XTlWyMhZvXLobyWXWKqLiewrRKN2QmW3IoqSM2XRsYww4eI_KO3QChwARKjVja6B2QfLbXdfjZ1t-iFAN1W2oBq3tKqZR4d_VnOH24BR5QEjSDrtTFpjOQ1cgxnyP66zwuddBXLtf1WMSNIMw_T68_Z0jHx/s168/DeliLogo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitSes-Wi_lDyRg8aEWSAX77GEXcQnKfnVf9XTlWyMhZvXLobyWXWKqLiewrRKN2QmW3IoqSM2XRsYww4eI_KO3QChwARKjVja6B2QfLbXdfjZ1t-iFAN1W2oBq3tKqZR4d_VnOH24BR5QEjSDrtTFpjOQ1cgxnyP66zwuddBXLtf1WMSNIMw_T68_Z0jHx/s192/DeliLogo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitSes-Wi_lDyRg8aEWSAX77GEXcQnKfnVf9XTlWyMhZvXLobyWXWKqLiewrRKN2QmW3IoqSM2XRsYww4eI_KO3QChwARKjVja6B2QfLbXdfjZ1t-iFAN1W2oBq3tKqZR4d_VnOH24BR5QEjSDrtTFpjOQ1cgxnyP66zwuddBXLtf1WMSNIMw_T68_Z0jHx/s512/DeliLogo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
